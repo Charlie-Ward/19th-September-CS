@@ -7,6 +7,6 @@ def max_int(list_int):
     return max_number
 
 
-listInt = []
+listInt = [1,5,6,4,9,10,653,6]
 max_int(listInt)
 print(max_number)
